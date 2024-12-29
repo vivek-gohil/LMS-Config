@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-cards:
+members:
   message: "Welcome to LMS members related local APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
