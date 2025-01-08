@@ -2,7 +2,11 @@ build:
   version: "2.0"
 
 members:
+<<<<<<< HEAD
   message: "Welcome to LMS members related QA APIs "
+=======
+  message: "Welcome to LMS members related QualityAssurance APIs "
+>>>>>>> origin/main
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"

@@ -2,10 +2,14 @@ build:
   version: "1.0"
 
 books:
+<<<<<<< HEAD
   message: "Welcome to LMS books related prod APIs "
+=======
+  message: "Welcome to LMS books related production APIs "
+>>>>>>> origin/main
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "{cipher}d56f970e96b267def363b428fec9a10d28b41e5f4add2303cdd922f69fe81232d1a17fe1a7d6b77f1c8fdf0ee9d998f6"
+    email: "aishwarya@lms.com"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
