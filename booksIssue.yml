@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-booksIssue:
+booksissue:
   message: "Welcome to LMS BooksIssue related local APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
