@@ -1,8 +1,8 @@
 build:
   version: "1.0"
 
-members:
-  message: "Welcome to LMS members related prod APIs "
+booksIssue:
+  message: "Welcome to LMS BooksIssue related prod APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"

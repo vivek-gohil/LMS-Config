@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-cards:
+books:
   message: "Welcome to LMS books related QA APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"

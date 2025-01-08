@@ -1,8 +1,8 @@
 build:
   version: "3.0"
 
-members:
-  message: "Welcome to LMS members related local APIs "
+booksIssue:
+  message: "Welcome to LMS BooksIssue related local APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"

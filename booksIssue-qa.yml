@@ -1,8 +1,8 @@
 build:
   version: "2.0"
 
-members:
-  message: "Welcome to LMS members related QA APIs "
+booksIssue:
+  message: "Welcome to LMS BooksIssue related QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
